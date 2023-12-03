@@ -1,5 +1,6 @@
-import { AddHeroPage } from '@/pages/Hero'
 import { HeroesPage } from '@/pages/HeroesPage'
+import { AddHeroPage } from '@/pages/AddHeroPage'
+
 import { AppRoutes, getAddHeroRoute, getHeroesRoute } from '@/shared/const/router'
 import { AppRoutesProps } from '@/shared/types/router.types'
 
